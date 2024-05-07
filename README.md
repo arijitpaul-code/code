@@ -21,11 +21,7 @@ Here is the output from one run:
 
 Here are the suggested properties based on your preference:
 Property highlights:
-Sunset Ridge: Immerse yourself in the tranquil charm of Sunset Ridge, where suburban tranquility meets urban convenience. This cozy neighborhood boasts quiet streets perfect for peaceful living, while also offering easy access to a reliable bus line for stress-free commuting. The good local schools in the area provide excellent educational opportunities for families, and the proximity to convenient shopping options ensures that daily errands are a breeze. 
-
-Sunset Ridge is a haven for outdoor enthusiasts, with bike-friendly roads that make it easy to explore the scenic surroundings. The neighborhood strikes a perfect balance between suburban serenity and access to urban amenities, with a variety of restaurants and theaters just a short drive away. 
-
-In Sunset Ridge, you'll find the perfect blend of comfort and style in this modern ranch home. With a spacious kitchen ideal for culinary adventures, a cozy living room for relaxation, and a backyard oasis for gardening, this property truly embodies the user's preferences. The two-car garage provides ample storage space, while the modern, energy-efficient heating system ensures year-round comfort. Don't miss the opportunity to make Sunset Ridge your new home sweet home.
+Sunset Ridge: Immerse yourself in the tranquil yet vibrant community of Sunset Ridge, where suburban charm meets urban convenience. This neighborhood offers a peaceful environment with easy access to parks, walking trails, and recreational facilities, perfect for those seeking a quiet and family-friendly atmosphere. Sunset Ridge is also strategically located near major highways, providing seamless commutes to downtown and beyond. Enjoy the best of both worlds with a friendly community and convenient amenities right at your doorstep.
 
 Property details:
 Neighborhood: Sunset Ridge
@@ -37,13 +33,12 @@ Description: Discover the perfect blend of comfort and style at this modern ranc
 Neighborhood Description: Sunset Ridge is a sought-after neighborhood known for its friendly community and convenient location. Residents have access to parks, walking trails, and recreational facilities. The neighborhood is close to major highways, making it easy to commute to downtown and other parts of the city.
 ======================================
 Property highlights:
-Neighborhood: Enchanted Forest
+Enchanted Forest Neighborhood:
+Welcome to the Enchanted Forest neighborhood, where suburban tranquility meets urban convenience. This charming cottage offers 4 bedrooms, 3 bathrooms, and a cozy fireplace for those chilly evenings. Hardwood floors and a spacious backyard make this home perfect for entertaining and gardening. The kitchen features granite countertops and stainless steel appliances, perfect for preparing meals for your family. 
 
-Description: Welcome to the Enchanted Forest neighborhood, where you will find a charming cottage that meets all your preferences. This 4 bedroom, 3 bathroom home offers a cozy fireplace, hardwood floors, and a spacious backyard for gardening. The kitchen features granite countertops and stainless steel appliances, perfect for your culinary adventures. 
+The Enchanted Forest neighborhood is surrounded by lush greenery, offering winding paths and a sense of magic that aligns with your desire for a quiet and peaceful environment. You'll have easy access to hiking trails, parks, and a strong community spirit. Local cafes and shops are just a short distance away, providing convenient shopping options. 
 
-The Enchanted Forest neighborhood is a tranquil oasis with lush greenery and winding paths, providing a peaceful retreat from the hustle and bustle of the city. You'll have easy access to hiking trails, parks, and a strong sense of community. Local cafes and shops are just a short distance away, offering convenience without sacrificing the beauty of nature.
-
-This neighborhood strikes the perfect balance between suburban tranquility and access to urban amenities, with restaurants and theaters within reach. With a focus on a quiet environment, good local schools, and convenient shopping options, the Enchanted Forest neighborhood is sure to meet all your needs.
+This neighborhood strikes the perfect balance between nature and convenience, offering a serene escape while still being close to urban amenities like restaurants and theaters. With easy access to reliable bus lines, proximity to major highways, and bike-friendly roads, you'll have no trouble getting around. Don't miss out on the opportunity to call the Enchanted Forest neighborhood your new home.
 
 Property details:
 Neighborhood: Enchanted Forest
@@ -57,7 +52,7 @@ Neighborhood Description: The Enchanted Forest neighborhood is known for its lus
 Property highlights:
 Neighborhood: Sunset Heights
 
-Description: Welcome to Sunset Heights, where luxury meets tranquility. This prestigious neighborhood offers panoramic views of the city and mountains, perfect for those seeking a peaceful retreat. The community boasts top-rated schools, upscale dining options, and convenient shopping, catering to your desire for a quiet neighborhood with good local schools and convenient amenities. Sunset Heights is family-friendly, with parks, playgrounds, and walking trails for outdoor enjoyment. Experience the perfect balance of suburban tranquility and urban amenities in Sunset Heights.
+Description: Welcome to Sunset Heights, a prestigious neighborhood offering panoramic views of the city and mountains. This luxurious 5 bedroom, 4 bathroom home in Sunset Heights is perfect for those seeking a comfortable and spacious layout. The gourmet kitchen, formal dining room, and spacious living area provide the perfect setting for entertaining guests. The neighborhood is known for its quiet and family-friendly atmosphere, with top-rated schools, upscale dining options, and convenient shopping nearby. Sunset Heights strikes the perfect balance between suburban tranquility and access to urban amenities, making it an ideal choice for those looking for a peaceful yet vibrant community. Experience the best of luxury living in Sunset Heights.
 
 Property details:
 Neighborhood: Sunset Heights
@@ -67,5 +62,6 @@ Bathrooms: 4
 House Size: 3500
 Description: Step into luxury in this stunning 5 bedroom, 4 bathroom home in Sunset Heights. The open concept floor plan is perfect for entertaining, with a gourmet kitchen, formal dining room, and a spacious living area. The master suite features a spa-like bathroom and a private balcony with breathtaking views. The backyard oasis includes a pool, hot tub, and outdoor kitchen.
 Neighborhood Description: Sunset Heights is a prestigious neighborhood known for its panoramic views of the city and mountains. Residents enjoy easy access to top-rated schools, upscale dining, and shopping. The community is family-friendly with parks, playgrounds, and walking trails. Experience the best of luxury living in Sunset Heights.
+======================================
 
 
